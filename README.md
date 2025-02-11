@@ -8,4 +8,4 @@ The project utilizes a combination of immersive virtual reality and endpoint rob
 
 ## Repository Structure
 
-The data for this study include responses from subjective questionnaires and resistance measurements from a wearable sleeve sensor, as detailed in our experimental procedures, respectively, under pre and post-questionnaires, and resistance of elbow movements in each task.
+The data for this study includes responses from subjective questionnaires and resistance measurements from a wearable sleeve sensor, as detailed in our experimental procedures, respectively, under pre and post-questionnaires, and resistance of elbow movements in each task.
