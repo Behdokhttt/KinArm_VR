@@ -1,3 +1,5 @@
+![PXL_20221122_195137924](https://github.com/user-attachments/assets/62a88339-6a92-4e16-9170-3965014f1fae)
+
 # Immersive VR and Robotics for Upper Extremity Rehabilitation
 
 This repository contains the code and data used in the study of immersive virtual reality (VR) and robotics for upper extremity rehabilitation. Our project evaluates the effectiveness of VR and robotic interfaces in enhancing motor function rehabilitation.
