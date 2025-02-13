@@ -1,4 +1,5 @@
-![PXL_20221122_195137924](https://github.com/user-attachments/assets/62a88339-6a92-4e16-9170-3965014f1fae)
+<img src="https://github.com/user-attachments/assets/62a88339-6a92-4e16-9170-3965014f1fae" width="700" alt="PXL_20221122_195137924">
+
 
 # Immersive VR and Robotics for Upper Extremity Rehabilitation
 
